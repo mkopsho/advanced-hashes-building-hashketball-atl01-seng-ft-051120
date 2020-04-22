@@ -10,10 +10,10 @@ def game_hash
         :number => 0,
         :shoe => 16,
         :points => 22,
-        :rebounds => 
-        :assists =>
-        :steals =>
-        :blocks =>
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 3,
+        :blocks => 
         :slam_dunks =>
         },
         {
