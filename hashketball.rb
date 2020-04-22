@@ -22,13 +22,13 @@ def game_hash
         :shoe => 14,
         :points => 12,
         :rebounds => 12,
-        :assists => 
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
+        :assists => 12,
+        :steals => 12,
+        :blocks => 12,
+        :slam_dunks => 7
         },
         {
-        :player_name =>
+        :player_name => ""
         :number =>
         :shoe =>
         :points =>
